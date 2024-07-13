@@ -45,25 +45,25 @@ In this section, we perform various analyses to understand the historical perfor
 
 ## Predictive Modeling
 For the stock price prediction, we:
-•	Select Apple Inc. (AAPL) as the target stock for prediction.
-•	Use a linear regression model from scikit-learn.
-•	Split the historical data into training and testing sets.
-•	Train the model on the training data and generate predictions on the testing data.
-•	Forecast future prices for a specified period (e.g., 30 days).
+- Select Apple Inc. (AAPL) as the target stock for prediction.
+-	Use a linear regression model from scikit-learn.
+-	Split the historical data into training and testing sets.
+-	Train the model on the training data and generate predictions on the testing data.
+-	Forecast future prices for a specified period (e.g., 30 days).
 
 ## Evaluation Metrics
 We evaluate the model's performance using:
-•	Root Mean Squared Error (RMSE)
-•	Mean Absolute Error (MAE)
-•	Cross-validated RMSE to ensure the robustness of the model.
-•	Plotting the residuals to check for any patterns or biases.
+-	Root Mean Squared Error (RMSE)
+-	Mean Absolute Error (MAE)
+-	Cross-validated RMSE to ensure the robustness of the model.
+-	Plotting the residuals to check for any patterns or biases.
 
 ## Future Work
 Potential improvements and future work include:
-•	Using more complex models (e.g., LSTM, ARIMA) for better accuracy.
-•	Incorporating additional features such as economic indicators or sentiment analysis from news articles.
-•	Extending the analysis to a broader range of stocks or indices.
-•	Implementing a real-time stock prediction system with live data updates.
+-	Using more complex models (e.g., LSTM, ARIMA) for better accuracy.
+-	Incorporating additional features such as economic indicators or sentiment analysis from news articles.
+-	Extending the analysis to a broader range of stocks or indices.
+-	Implementing a real-time stock prediction system with live data updates.
 
 
 
