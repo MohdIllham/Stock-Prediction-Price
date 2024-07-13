@@ -1,11 +1,12 @@
 # Stock Analysis and Prediction Using Machine Learning
 
 ## Overview
+## Table of Contents
+
 ## Installation
-	```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+```
+pip install requests pandas numpy yfinance matplotlib seaborn scikit-learn
+
 ```
 ## Table of contents
 ## Table of contents
