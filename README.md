@@ -16,6 +16,7 @@ This project involves analyzing and predicting stock prices using historical dat
 - [Future Work](#Future-Work)
 
 ## Installation
+To run the project, you need the following Python libraries:
 ```
 pip install requests pandas numpy yfinance matplotlib seaborn scikit-learn
 ```
