@@ -2,6 +2,7 @@
 
 ## Overview
 This project involves analyzing and predicting stock prices using historical data from Yahoo Finance. The analysis covers the top 10 companies by market capitalization in the S&P 500 index. The project includes data fetching, exploratory data analysis (EDA), and predictive modeling using linear regression.
+
 **Code:** [`Stock Price Prediction`]( https://github.com/MohdIllham/Stock-Prediction-Price/blob/main/Stock%20Price%20Prediction.ipynb)
 
 ## Table of Contents
