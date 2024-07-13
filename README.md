@@ -22,6 +22,7 @@ pip install requests pandas numpy yfinance matplotlib seaborn scikit-learn
 ```
 ## Data Collection
 We fetch the list of S&P 500 companies from Wikipedia and their historical stock data from Yahoo Finance using the yfinance library. The top 10 companies are selected based on their market capitalization.
+
 Steps:
 We fetch the list of S&P 500 companies from Wikipedia and their historical stock data from Yahoo Finance using the yfinance library. The top 10 companies are selected based on their market capitalization.
 Steps:
