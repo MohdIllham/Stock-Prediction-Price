@@ -36,12 +36,12 @@ Data preparation involves:
 
 ## Exploratory Data Analysis (EDA)
 In this section, we perform various analyses to understand the historical performance of the selected stocks:
-•	Plotting stock prices over time.
-•	Analyzing closing prices to identify trends and anomalies.
-•	Evaluating trading volumes to assess market activity.
-•	Calculating and plotting yearly returns to understand long-term performance.
-•	Using Kernel Density Estimation (KDE) plots to visualize the distribution of yearly returns.
-•	Applying Least Squares Moving Average (LSMA) to smooth out price movements and reduce noise.
+-	Plotting stock prices over time.
+-	Analyzing closing prices to identify trends and anomalies.
+-	Evaluating trading volumes to assess market activity.
+-	Calculating and plotting yearly returns to understand long-term performance.
+-	Using Kernel Density Estimation (KDE) plots to visualize the distribution of yearly returns.
+- Applying Least Squares Moving Average (LSMA) to smooth out price movements and reduce noise.
 
 ## Predictive Modeling
 For the stock price prediction, we:
