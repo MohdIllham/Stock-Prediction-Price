@@ -1,4 +1,4 @@
-Stock Price Analysis and Prediction Using Python
+#Stock Price Analysis and Prediction Using Python
 This project focuses on analyzing and predicting stock prices for the top 10 companies listed on the S&P 500 index using data from Yahoo Finance. The analysis covers data from January 1, 2012, to December 31, 2022. The project involves fetching data, performing exploratory data analysis (EDA), and making predictions using a Linear Regression model. The final goal is to forecast future stock prices.
 Table of Contents
 Installation
